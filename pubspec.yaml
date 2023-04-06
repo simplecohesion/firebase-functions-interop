@@ -21,14 +21,9 @@ dependencies:
       ref: dart2_3
   tekartik_http_node:
     git:
-      url: https://github.com/tekartik/common_node.dart
+      url: https://github.com/simplecohesion/common_node.dart
       path: http_node
       ref: dart2_3
-  tekartik_lints:
-    git:
-      url: https://github.com/tekartik/common.dart
-      ref: dart2_3
-      path: packages/lints
-    version: '>=0.1.0'
+      
 dev_dependencies:
   test: ^1.12.0
